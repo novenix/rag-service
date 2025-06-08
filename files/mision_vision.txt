@@ -1,0 +1,12 @@
+# Misión y Visión de HistoriaCard
+
+## Misión
+La misión de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,
+gestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard está comprometida a
+ofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayudándoles a construir un futuro financiero más sólido y
+estable.
+
+## Visión
+La visión de HistoriaCard es convertirse en la fintech líder en México y un referente mundial en la inclusión financiera, reconocida por su enfoque en la educación
+financiera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo estándar en el sector financiero, brindando a
+sus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo económico en constante cambio.

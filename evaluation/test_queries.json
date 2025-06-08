@@ -1,0 +1,177 @@
+[
+  {
+    "query": "¿Cuándo fue fundada HistoriaCard?",
+    "relevant_docs": ["introduccion.txt"],
+    "expected_response": "HistoriaCard es una fintech mexicana que fue fundada en 2018."
+  },
+  {
+    "query": "¿Cuál es el enfoque principal de HistoriaCard?",
+    "relevant_docs": ["introduccion.txt"],
+    "expected_response": "HistoriaCard se enfoca en la educación financiera, la mejora del historial crediticio y la promoción de un manejo responsable de las finanzas personales."
+  },
+  {
+    "query": "¿Cuál es la misión de HistoriaCard?",
+    "relevant_docs": ["mision_vision.txt"],
+    "expected_response": "La misión de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio, gestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas."
+  },
+  {
+    "query": "¿Cuál es la visión de HistoriaCard?",
+    "relevant_docs": ["mision_vision.txt"],
+    "expected_response": "La visión de HistoriaCard es convertirse en la fintech líder en México y un referente mundial en la inclusión financiera, reconocida por su enfoque en la educación financiera y su capacidad para transformar la vida de millones de personas."
+  },
+  {
+    "query": "¿Qué compromiso tiene HistoriaCard con sus clientes?",
+    "relevant_docs": ["mision_vision.txt"],
+    "expected_response": "HistoriaCard está comprometida a ofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayudándoles a construir un futuro financiero más sólido y estable."
+  },
+  {
+    "query": "¿Qué tarjetas ofrece HistoriaCard?",
+    "relevant_docs": ["productos.txt"],
+    "expected_response": "HistoriaCard ofrece dos productos financieros principales: una tarjeta de crédito y una tarjeta de débito, cada uno diseñado para satisfacer diferentes aspectos de las necesidades financieras de los usuarios."
+  },
+  {
+    "query": "¿Cuál es el monto de línea de crédito inicial para la tarjeta de crédito HistoriaCard?",
+    "relevant_docs": ["productos.txt"],
+    "expected_response": "La línea de crédito inicial para la tarjeta de crédito HistoriaCard es de $5,000 - $50,000 MXN, con posibilidad de aumentos periódicos basados en el comportamiento crediticio del usuario."
+  },
+  {
+    "query": "¿Cuál es la tasa de interés anual de la tarjeta de crédito HistoriaCard?",
+    "relevant_docs": ["productos.txt"],
+    "expected_response": "La tasa de interés anual de la tarjeta de crédito HistoriaCard es de 24% - 36%, ajustada según el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual."
+  },
+  {
+    "query": "¿Qué beneficios ofrece la tarjeta de débito HistoriaCard?",
+    "relevant_docs": ["productos.txt"],
+    "expected_response": "La tarjeta de débito HistoriaCard ofrece beneficios como alertas instantáneas, bloqueo y desbloqueo desde la app, promociones exclusivas, transferencias bancarias ilimitadas y sin costo a través de SPEI, e intereses sobre saldo de hasta 4% anual."
+  },
+  {
+    "query": "¿Qué nuevo producto planea lanzar HistoriaCard en el futuro?",
+    "relevant_docs": ["productos.txt"],
+    "expected_response": "En el horizonte, HistoriaCard planea lanzar un nuevo producto: Préstamos Personales. Este producto estará diseñado para ayudar a los usuarios a financiar proyectos importantes, consolidar deudas o enfrentar emergencias imprevistas, todo mientras continúan mejorando su historial crediticio."
+  },
+  {
+    "query": "¿Qué secciones principales tiene la aplicación de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "La aplicación de HistoriaCard incluye secciones como Panel de Control, Mi Perfil, Tarjetas, Pagos, Educación Financiera, Recompensas, Soporte, Configuración, y Seguridad y Tecnología."
+  },
+  {
+    "query": "¿Qué funcionalidades ofrece el Panel de Control de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "El Panel de Control de HistoriaCard ofrece saldo disponible, resumen de movimientos recientes, indicadores financieros y notificaciones y alertas."
+  },
+  {
+    "query": "¿Qué opciones de pago permite la app de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "La sección de Pagos de la app de HistoriaCard permite pago de tarjeta de crédito, transferencias bancarias, pago de servicios, pago entre usuarios de HistoriaCard y recargas de tiempo aire."
+  },
+  {
+    "query": "¿Qué recursos educativos ofrece HistoriaCard en su app?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "HistoriaCard ofrece recursos educativos como artículos y guías, calculadoras financieras, cursos en línea y asesoría personalizada para usuarios premium."
+  },
+  {
+    "query": "¿Cómo funciona el programa de Recompensas de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "El programa de Recompensas de HistoriaCard ofrece opciones para canjear puntos por efectivo, descuentos en compras, vuelos y hoteles, y experiencias únicas."
+  },
+  {
+    "query": "¿Qué medidas de seguridad implementa HistoriaCard en su app?",
+    "relevant_docs": ["app_descripcion.txt"],
+    "expected_response": "HistoriaCard implementa medidas de seguridad como cifrado de extremo a extremo, autenticación biométrica, detección de fraudes, alertas de seguridad y actualizaciones constantes."
+  },
+  {
+    "query": "¿Qué alianzas ha establecido HistoriaCard con comercios?",
+    "relevant_docs": ["alianzas_innovacion.txt"],
+    "expected_response": "HistoriaCard ha forjado alianzas con una red extensa de comercios y proveedores de servicios en todo México. Estas alianzas permiten a los usuarios de HistoriaCard acceder a descuentos exclusivos y promociones especiales."
+  },
+  {
+    "query": "¿Qué tecnologías innovadoras utiliza HistoriaCard?",
+    "relevant_docs": ["alianzas_innovacion.txt"],
+    "expected_response": "HistoriaCard utiliza tecnologías innovadoras como inteligencia artificial para análisis de crédito, BigData para personalización y está explorando el uso de tecnologías blockchain para aumentar la transparencia y la seguridad en las transacciones financieras."
+  },
+  {
+    "query": "¿Para qué utiliza HistoriaCard la inteligencia artificial?",
+    "relevant_docs": ["alianzas_innovacion.txt"],
+    "expected_response": "HistoriaCard utiliza modelos avanzados de IA para evaluar el riesgo crediticio de manera más precisa, permitiendo ofrecer tasas de interés personalizadas que reflejan con mayor exactitud la capacidad de pago del usuario."
+  },
+  {
+    "query": "¿Cómo cumple HistoriaCard con las regulaciones financieras?",
+    "relevant_docs": ["cumplimiento_normativo.txt"],
+    "expected_response": "HistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y servicios cumplan con las leyes aplicables, incluyendo las normas de protección al consumidor y las regulaciones contra el lavado de dinero."
+  },
+  {
+    "query": "¿Qué políticas implementa HistoriaCard para prevenir el lavado de dinero?",
+    "relevant_docs": ["cumplimiento_normativo.txt"],
+    "expected_response": "HistoriaCard implementa políticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios no sean utilizados para actividades ilícitas."
+  },
+  {
+    "query": "¿Cuál es el compromiso de HistoriaCard con la protección al consumidor?",
+    "relevant_docs": ["cumplimiento_normativo.txt"],
+    "expected_response": "HistoriaCard se compromete a la transparencia y a la protección de los derechos del consumidor, proporcionando información clara y accesible sobre todos sus productos y servicios."
+  },
+  {
+    "query": "¿Cómo promueve HistoriaCard la inclusión financiera?",
+    "relevant_docs": ["impacto_social.txt"],
+    "expected_response": "Uno de los principales objetivos de HistoriaCard es promover la inclusión financiera en México. En un país donde un gran porcentaje de la población sigue excluida del sistema financiero formal, HistoriaCard ofrece productos y servicios diseñados para ser accesibles a todos, independientemente de su historial crediticio o ingresos."
+  },
+  {
+    "query": "¿Qué programas educativos ofrece HistoriaCard fuera de su app?",
+    "relevant_docs": ["impacto_social.txt"],
+    "expected_response": "Además de los recursos de educación financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos. Estos eventos, dirigidos por expertos financieros, están enfocados en enseñar a la población sobre la importancia de mantener un buen historial crediticio, cómo manejar deudas, y cómo planificar para el futuro."
+  },
+  {
+    "query": "¿Cómo contribuye HistoriaCard a la sostenibilidad?",
+    "relevant_docs": ["impacto_social.txt"],
+    "expected_response": "HistoriaCard se compromete con la sostenibilidad a través de políticas de cero papel en sus oficinas, promoción del uso de herramientas digitales para reducir la huella de carbono, inversión en proyectos de energía renovable y compensación de su impacto ambiental."
+  },
+  {
+    "query": "¿Con qué organizaciones colabora HistoriaCard para su impacto social?",
+    "relevant_docs": ["impacto_social.txt"],
+    "expected_response": "HistoriaCard ha establecido alianzas estratégicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos programas incluyen la provisión de recursos educativos, la creación de programas de microcréditos, y la implementación de iniciativas que promueven la economía local."
+  },
+  {
+    "query": "¿Cuáles son los planes de expansión de HistoriaCard?",
+    "relevant_docs": ["planes_futuros.txt"],
+    "expected_response": "HistoriaCard tiene planes ambiciosos de expansión tanto en México como en el extranjero. En los próximos cinco años, la fintech planea aumentar su presencia en todas las regiones del país y explorar oportunidades en otros mercados emergentes de América Latina."
+  },
+  {
+    "query": "¿Qué nuevos productos planea desarrollar HistoriaCard?",
+    "relevant_docs": ["planes_futuros.txt"],
+    "expected_response": "Además de los préstamos personales, HistoriaCard está desarrollando una gama de nuevos productos financieros, incluyendo seguros y herramientas de inversión, que se lanzarán en los próximos años."
+  },
+  {
+    "query": "¿Qué tecnologías futuras está explorando HistoriaCard?",
+    "relevant_docs": ["planes_futuros.txt"],
+    "expected_response": "HistoriaCard está explorando nuevas tecnologías, como la inteligencia artificial avanzada para ofrecer asesoramiento financiero automatizado y altamente personalizado, y las finanzas descentralizadas (DeFi) para ofrecer servicios financieros más accesibles y transparentes."
+  },
+  {
+    "query": "¿Puede compartir un testimonio de un cliente de HistoriaCard?",
+    "relevant_docs": ["testimonios.txt"],
+    "expected_response": "Un testimonio es el de Ana Martínez, de 28 años, de Ciudad de México, quien dijo: 'Antes de HistoriaCard, tenía miedo de usar tarjetas de crédito por todas las historias de deudas que había escuchado. Pero con la guía y las herramientas educativas que ofrece la app, he aprendido a manejar mi crédito de manera responsable y ahora tengo un excelente puntaje crediticio. Gracias a HistoriaCard, logré comprar mi primer auto.'"
+  },
+  {
+    "query": "¿Cómo ha ayudado HistoriaCard a mejorar el historial crediticio de sus clientes?",
+    "relevant_docs": ["testimonios.txt"],
+    "expected_response": "HistoriaCard ha ayudado a clientes como Juan Carlos Hernández, de 35 años, de Monterrey, quien después de pasar por un mal momento financiero, tuvo la oportunidad de reconstruir su crédito con HistoriaCard y ahora está en camino de comprar su casa."
+  },
+  {
+    "query": "¿Cómo utilizan los jóvenes la app de HistoriaCard?",
+    "relevant_docs": ["testimonios.txt"],
+    "expected_response": "Según el testimonio de Sofía Ramírez, de 22 años, de Guadalajara, la app de HistoriaCard le ha ayudado a aprender sobre finanzas de una manera sencilla y práctica. Ella utiliza las calculadoras financieras para planificar sus gastos mensuales y aprovecha el programa de recompensas para canjear puntos por boletos de avión."
+  },
+  {
+    "query": "¿Por qué elegir HistoriaCard en lugar de un banco tradicional?",
+    "relevant_docs": ["productos.txt", "app_descripcion.txt", "impacto_social.txt"],
+    "expected_response": "HistoriaCard ofrece ventajas sobre los bancos tradicionales como tarjetas diseñadas para mejorar el historial crediticio, una app con educación financiera integral, un programa de recompensas flexible, atención personalizada, y un compromiso con la inclusión financiera, todo con menos comisiones y más transparencia que la banca tradicional."
+  },
+  {
+    "query": "¿Qué características tiene el programa de educación financiera de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt", "impacto_social.txt"],
+    "expected_response": "El programa de educación financiera de HistoriaCard incluye artículos y guías sobre conceptos básicos y avanzados, calculadoras interactivas para presupuestos y préstamos, cursos en línea sobre historial crediticio e inversiones, asesoría personalizada para usuarios premium, y talleres comunitarios gratuitos dirigidos por expertos."
+  },
+  {
+    "query": "¿Cuáles son las políticas de privacidad y seguridad de HistoriaCard?",
+    "relevant_docs": ["app_descripcion.txt", "cumplimiento_normativo.txt"],
+    "expected_response": "HistoriaCard aplica estrictas políticas de privacidad y seguridad que incluyen cifrado de extremo a extremo, autenticación biométrica, monitoreo con IA para detectar fraudes, alertas de seguridad instantáneas, cumplimiento con regulaciones financieras, y políticas KYC/AML para garantizar transacciones seguras y legítimas."
+  }
+]

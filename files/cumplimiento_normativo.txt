@@ -1,0 +1,11 @@
+# Cumplimiento Normativo y Ética
+
+HistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y
+servicios cumplan con las leyes aplicables, incluyendo las normas de protección al consumidor y las regulaciones contra el lavado de dinero.
+
+- Protección al consumidor: HistoriaCard se compromete a la transparencia y a la protección de los derechos del consumidor, proporcionando información
+clara y accesible sobre todos sus productos y servicios.
+- Políticas AML/KYC: La fintech implementa políticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios
+no sean utilizados para actividades ilícitas.
+- Ética empresarial: HistoriaCard se adhiere a un código de ética empresarial que pone a los clientes en primer lugar, garantizando prácticas comerciales justas
+y responsables en todas las facetas de su operación.

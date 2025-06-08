@@ -1,0 +1,53 @@
+# Productos Ofrecidos por HistoriaCard
+
+HistoriaCard ofrece dos productos financieros principales: una tarjeta de crédito y una tarjeta de débito, cada uno diseñado para satisfacer diferentes aspectos de
+las necesidades financieras de los usuarios.
+
+## Tarjeta de Crédito HistoriaCard
+La tarjeta de crédito HistoriaCard es un producto clave para aquellos que buscan construir o mejorar su historial crediticio. Esta tarjeta no solo permite realizar
+compras, sino que también educa a los usuarios sobre el manejo responsable del crédito, un componente esencial para alcanzar la estabilidad financiera.
+
+### Características principales:
+- Línea de crédito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos periódicos basados en el comportamiento crediticio del usuario.
+- Tasa de interés anual: 24% - 36%, ajustada según el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.
+- Pago mínimo mensual: 5% del saldo adeudado o $200 MXN, lo que sea mayor, con flexibilidad para realizar pagos anticipados sin penalización.
+- Comisiones: Sin comisiones por anualidad durante el primer año; a partir del segundo año, la anualidad es de $500 MXN, con descuentos disponibles por uso
+frecuente.
+
+### Beneficios adicionales:
+- Programa de recompensas: Acumula puntos por cada compra, que pueden canjearse por descuentos, productos o experiencias.
+- Seguro de protección de compras: Cubre daños o robos de artículos adquiridos con la tarjeta.
+- Acceso a promociones exclusivas: Ofertas especiales en comercios afiliados y eventos únicos.
+- Asistencia en viajes: Incluye seguro de viaje y asistencia en el extranjero, desde emergencias médicas hasta reemplazo de tarjetas.
+
+## Tarjeta de Débito HistoriaCard
+La tarjeta de débito HistoriaCard ofrece una experiencia bancaria completa, segura y sin complicaciones. Es ideal para aquellos que prefieren manejar sus finanzas
+sin crédito, permitiendo una gestión fácil y efectiva de su dinero.
+
+### Características principales:
+- Costo de emisión: Gratuito al abrir una cuenta en la app de HistoriaCard, con la tarjeta enviada directamente al domicilio del usuario.
+- Mantenimiento de cuenta: Sin comisiones mensuales ni de manejo de cuenta, con opciones para establecer metas de ahorro y automatizar depósitos.
+- Retiro de efectivo: Sin costo en cajeros automáticos de la red HistoriaCard; $30 MXN por retiro en otros cajeros, con reembolsos limitados en cajeros de
+terceros.
+- Transferencias bancarias: Ilimitadas y sin costo a través de SPEI, con posibilidad de programar transferencias automáticas.
+- Intereses sobre saldo: Hasta 4% anual sobre el saldo promedio mensual, aplicable hasta $150,000 MXN, fomentando el ahorro con recompensas tangibles.
+- Pagos y compras: La tarjeta puede utilizarse en cualquier comercio físico u online que acepte tarjetas Visa, incluyendo suscripciones a servicios digitales.
+
+### Beneficios adicionales:
+- Alertas instantáneas: Recibe notificaciones en tiempo real por cada transacción.
+- Bloqueo y desbloqueo desde la app: Seguridad total en caso de pérdida o robo.
+- Promociones exclusivas: Descuentos en comercios y servicios seleccionados, además de ofertas especiales para usuarios frecuentes.
+
+## Producto Futuro: Préstamos Personales HistoriaCard
+En el horizonte, HistoriaCard planea lanzar un nuevo producto: Préstamos Personales. Este producto estará diseñado para ayudar a los usuarios a financiar proyectos
+importantes, consolidar deudas o enfrentar emergencias imprevistas, todo mientras continúan mejorando su historial crediticio.
+
+### Características anticipadas:
+- Montos de préstamo: Desde $10,000 hasta $100,000 MXN.
+- Plazos de pago: De 6 a 36 meses, con opciones de pago anticipado sin penalización.
+- Tasa de interés: Competitiva, basada en el perfil crediticio del usuario, con la posibilidad de reducir la tasa mediante pagos puntuales.
+- Comisiones: Sin comisiones por apertura; pequeñas comisiones por retraso en pagos.
+
+### Beneficios adicionales:
+- Asesoría financiera personalizada para gestionar el préstamo.
+- Acceso a herramientas de planificación dentro de la app para monitorear el progreso del pago.

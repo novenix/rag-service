@@ -1,0 +1,1399 @@
+{
+  "individual_results": [
+    {
+      "query": "\u00bfCu\u00e1ndo fue fundada HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.14456150794955477
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.05237726286303011
+          },
+          {
+            "text": "# Testimonios de Clientes\n\n## Transformaci\u00f3n de Historias de Vida\nHistoriaCard ha cambiado la vida de miles de mexicanos, y sus historias son el testimonio m\u00e1s fuerte del impacto positivo de la fintech.\n\n- Ana Mart\u00ednez, 28 a\u00f1os, Ciudad de M\u00e9xico: \"Antes de HistoriaCard, ten\u00eda miedo de usar tarjetas de cr\u00e9dito por todas las historias de deudas que hab\u00eda\nescuchado. Pero con la gu\u00eda y las herramientas educativas que ofrece la app, he aprendido a manejar mi cr\u00e9dito de manera responsable y ahora tengo un\nexcelente puntaje crediticio. Gracias a HistoriaCard, logr\u00e9 comprar mi primer auto.\"\n\n- Juan Carlos Hern\u00e1ndez, 35 a\u00f1os, Monterrey: \"Despu\u00e9s de pasar por un mal momento financiero, mi historial crediticio estaba por los suelos. HistoriaCard me\nofreci\u00f3 una oportunidad para reconstruir mi cr\u00e9dito y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer u",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 0
+            },
+            "score": 0.04515596756690498
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "HistoriaCard fue fundada en 2018.",
+        "rouge_1": 0.6666666622222223,
+        "rouge_2": 0.4615384572781066,
+        "rouge_l": 0.6666666622222223
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es el enfoque principal de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer un servicio personalizado que se adapta a las necesidades individuales de sus usuarios.\n\n- Sof\u00eda Ram\u00edrez, 22 a\u00f1os, Guadalajara: \"La app de HistoriaCard me ha ayudado a aprender sobre finanzas de una manera sencilla y pr\u00e1ctica. Las calculadoras\nfinancieras son una herramienta incre\u00edble que uso para planificar mis gastos mensuales. Adem\u00e1s, el programa de recompensas es fant\u00e1stico; he podido\ncanjear puntos por boletos de avi\u00f3n y disfrutar de unas vacaciones sin gastar de m\u00e1s.\"\n",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 1
+            },
+            "score": 0.17438009625390835
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.17240836307520346
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.1450285269431043
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es la misi\u00f3n de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.3693343832792969
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.282197293015583
+          },
+          {
+            "text": "con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso con la educaci\u00f3n financiera, ofreciendo recursos que permiten a los usuarios tomar decisiones informadas sobre\nsus finanzas personales. Esta secci\u00f3n es fundamental para la misi\u00f3n de la empresa de empoderar a sus usuarios.\n- Art\u00edculos y gu\u00edas: Una extensa biblioteca de contenido educativo que cubre desde conceptos b\u00e1sicos, como la importancia del ahorro y la creaci\u00f3n de un\npresupuesto, hasta temas m\u00e1s avanzados como la inversi\u00f3n y la planificaci\u00f3n para la jubilaci\u00f3n.\n- Calculadoras financieras: Herramientas interactivas que permiten a los usuarios calcular el costo total de un pr\u00e9stamo, proyectar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas,",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 5
+            },
+            "score": 0.2009627054873524
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "La misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio, gestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a ofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y estable.",
+        "rouge_1": 0.7674418557355327,
+        "rouge_2": 0.7115384569545119,
+        "rouge_l": 0.7674418557355327
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es la visi\u00f3n de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.3884176662493821
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.372755123939315
+          },
+          {
+            "text": "con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso con la educaci\u00f3n financiera, ofreciendo recursos que permiten a los usuarios tomar decisiones informadas sobre\nsus finanzas personales. Esta secci\u00f3n es fundamental para la misi\u00f3n de la empresa de empoderar a sus usuarios.\n- Art\u00edculos y gu\u00edas: Una extensa biblioteca de contenido educativo que cubre desde conceptos b\u00e1sicos, como la importancia del ahorro y la creaci\u00f3n de un\npresupuesto, hasta temas m\u00e1s avanzados como la inversi\u00f3n y la planificaci\u00f3n para la jubilaci\u00f3n.\n- Calculadoras financieras: Herramientas interactivas que permiten a los usuarios calcular el costo total de un pr\u00e9stamo, proyectar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas,",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 5
+            },
+            "score": 0.11593202930072748
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 compromiso tiene HistoriaCard con sus clientes?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso con la educaci\u00f3n financiera, ofreciendo recursos que permiten a los usuarios tomar decisiones informadas sobre\nsus finanzas personales. Esta secci\u00f3n es fundamental para la misi\u00f3n de la empresa de empoderar a sus usuarios.\n- Art\u00edculos y gu\u00edas: Una extensa biblioteca de contenido educativo que cubre desde conceptos b\u00e1sicos, como la importancia del ahorro y la creaci\u00f3n de un\npresupuesto, hasta temas m\u00e1s avanzados como la inversi\u00f3n y la planificaci\u00f3n para la jubilaci\u00f3n.\n- Calculadoras financieras: Herramientas interactivas que permiten a los usuarios calcular el costo total de un pr\u00e9stamo, proyectar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas,",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 5
+            },
+            "score": 0.10153585276098363
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.09389413823956894
+          },
+          {
+            "text": "ranjero, con soporte para m\u00faltiples divisas y opciones para guardar\nbeneficiarios frecuentes.\n- Pago de servicios: Desde servicios p\u00fablicos como agua, luz, y gas, hasta suscripciones a plataformas digitales y telecomunicaciones, los usuarios pueden\nrealizar todos sus pagos desde la app. La opci\u00f3n de programar pagos recurrentes asegura que nunca se pasen fechas de vencimiento, eliminando la\npreocupaci\u00f3n por cortes de servicio.\n- Pago entre usuarios de HistoriaCard: Los usuarios pueden enviar y recibir dinero entre cuentas de HistoriaCard de forma instant\u00e1nea y sin costo alguno. Esta\nfunci\u00f3n es ideal para dividir gastos con amigos o familiares, como cenas, viajes, o cualquier otro gasto compartido.\n- Recargas de tiempo aire: Recarga de tel\u00e9fonos m\u00f3viles directamente desde la app, compatible con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso ",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 4
+            },
+            "score": 0.08289586941473956
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 tarjetas ofrece HistoriaCard?",
+      "retrieval": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "retrieved_docs": [
+          {
+            "text": "ridad: Activaci\u00f3n de autenticaci\u00f3n en dos pasos, cambios de contrase\u00f1a frecuentes, y configuraci\u00f3n de alertas personalizadas.\n- Gesti\u00f3n de dispositivos conectados: Monitoreo de los dispositivos autorizados para acceder a la cuenta, con la posibilidad de desvincular cualquier\ndispositivo no reconocido.\n- Historial de seguridad: Acceso a un registro completo de inicios de sesi\u00f3n y cambios de configuraci\u00f3n.\n\n## 3. Tarjetas\nLa secci\u00f3n de Tarjetas proporciona control total sobre las tarjetas de cr\u00e9dito y d\u00e9bito asociadas a la cuenta HistoriaCard. Las funciones clave incluyen:\n- Visualizaci\u00f3n de detalles de la tarjeta: Incluyendo la opci\u00f3n de ver el n\u00famero completo de la tarjeta bajo medidas de seguridad estrictas.\n- Bloqueo/desbloqueo instant\u00e1neo: Permite al usuario proteger su cuenta en segundos si sospecha de un uso no autorizado.\n- Solicitar tarjetas adicionales: Los usuarios pueden pedir tarjetas adicionales para familiares o para uso espec\u00edfico, como compras en l\u00ednea, con l\u00edmites de\nga",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 2
+            },
+            "score": 0.18536777336852495
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.0915827335724623
+          },
+          {
+            "text": "# Testimonios de Clientes\n\n## Transformaci\u00f3n de Historias de Vida\nHistoriaCard ha cambiado la vida de miles de mexicanos, y sus historias son el testimonio m\u00e1s fuerte del impacto positivo de la fintech.\n\n- Ana Mart\u00ednez, 28 a\u00f1os, Ciudad de M\u00e9xico: \"Antes de HistoriaCard, ten\u00eda miedo de usar tarjetas de cr\u00e9dito por todas las historias de deudas que hab\u00eda\nescuchado. Pero con la gu\u00eda y las herramientas educativas que ofrece la app, he aprendido a manejar mi cr\u00e9dito de manera responsable y ahora tengo un\nexcelente puntaje crediticio. Gracias a HistoriaCard, logr\u00e9 comprar mi primer auto.\"\n\n- Juan Carlos Hern\u00e1ndez, 35 a\u00f1os, Monterrey: \"Despu\u00e9s de pasar por un mal momento financiero, mi historial crediticio estaba por los suelos. HistoriaCard me\nofreci\u00f3 una oportunidad para reconstruir mi cr\u00e9dito y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer u",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 0
+            },
+            "score": 0.08595671596059723
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es el monto de l\u00ednea de cr\u00e9dito inicial para la tarjeta de cr\u00e9dito HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Productos Ofrecidos por HistoriaCard\n\nHistoriaCard ofrece dos productos financieros principales: una tarjeta de cr\u00e9dito y una tarjeta de d\u00e9bito, cada uno dise\u00f1ado para satisfacer diferentes aspectos de\nlas necesidades financieras de los usuarios.\n\n## Tarjeta de Cr\u00e9dito HistoriaCard\nLa tarjeta de cr\u00e9dito HistoriaCard es un producto clave para aquellos que buscan construir o mejorar su historial crediticio. Esta tarjeta no solo permite realizar\ncompras, sino que tambi\u00e9n educa a los usuarios sobre el manejo responsable del cr\u00e9dito, un componente esencial para alcanzar la estabilidad financiera.\n\n### Caracter\u00edsticas principales:\n- L\u00ednea de cr\u00e9dito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos peri\u00f3dicos basados en el comportamiento crediticio del usuario.\n- Tasa de inter\u00e9s anual: 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 0
+            },
+            "score": 0.38230012901337806
+          },
+          {
+            "text": "os si sospecha de un uso no autorizado.\n- Solicitar tarjetas adicionales: Los usuarios pueden pedir tarjetas adicionales para familiares o para uso espec\u00edfico, como compras en l\u00ednea, con l\u00edmites de\ngasto personalizados.\n- Historial detallado de transacciones: An\u00e1lisis profundo de las transacciones, con herramientas para categorizar gastos y planificar el presupuesto.\n\n## 4. Pagos\nLa secci\u00f3n de Pagos es una de las m\u00e1s utilizadas dentro de la app, facilitando la realizaci\u00f3n de pagos de manera r\u00e1pida y segura. Las funcionalidades incluyen:\n- Pago de tarjeta de cr\u00e9dito: Opci\u00f3n de realizar pagos m\u00ednimos, pagos totales o seleccionar un monto espec\u00edfico, con recordatorios autom\u00e1ticos para evitar\ncargos por retraso.\n- Transferencias bancarias: Env\u00edo de dinero a cuentas bancarias en M\u00e9xico y el extranjero, con soporte para m\u00faltiples divisas y opciones para guardar\nbeneficiarios frecuentes.\n- Pago de servicios: Desde servicios p\u00fablicos como agua, luz, y gas, hasta suscripciones a plataformas dig",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 3
+            },
+            "score": 0.17539844099959323
+          },
+          {
+            "text": "por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que se abona directamente a su cuenta de d\u00e9bito o se aplica como un\ncr\u00e9dito en su estado de cuenta de la tarjeta de cr\u00e9dito.\n- Descuentos en compras: Canjea puntos por descuentos en compras en comercios afiliados, desde supermercados y tiendas de ropa hasta restaurantes y\nservicios en l\u00ednea.\n- Vuelos y hoteles: HistoriaCard ha establecido alianzas con aerol\u00edneas y cadenas hoteleras para ofrecer a sus usuarios la posibilidad de canjear puntos por\nboletos de avi\u00f3n, noches de hotel, y paquetes vacacionales.\n- Experiencias \u00fanicas: Los usuarios tambi\u00e9n pueden utilizar sus puntos para acceder a experiencias exclusivas, como eventos culturales, conciertos, y cenas\ngourmet en restaurantes de alta categor\u00eda.\n\n## 7. Soporte\nEl soporte al cliente es una piedra angular del servicio que ofrece HistoriaCard.",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 7
+            },
+            "score": 0.14866395857666517
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es la tasa de inter\u00e9s anual de la tarjeta de cr\u00e9dito HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Productos Ofrecidos por HistoriaCard\n\nHistoriaCard ofrece dos productos financieros principales: una tarjeta de cr\u00e9dito y una tarjeta de d\u00e9bito, cada uno dise\u00f1ado para satisfacer diferentes aspectos de\nlas necesidades financieras de los usuarios.\n\n## Tarjeta de Cr\u00e9dito HistoriaCard\nLa tarjeta de cr\u00e9dito HistoriaCard es un producto clave para aquellos que buscan construir o mejorar su historial crediticio. Esta tarjeta no solo permite realizar\ncompras, sino que tambi\u00e9n educa a los usuarios sobre el manejo responsable del cr\u00e9dito, un componente esencial para alcanzar la estabilidad financiera.\n\n### Caracter\u00edsticas principales:\n- L\u00ednea de cr\u00e9dito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos peri\u00f3dicos basados en el comportamiento crediticio del usuario.\n- Tasa de inter\u00e9s anual: 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 0
+            },
+            "score": 0.4127925213424876
+          },
+          {
+            "text": "les para usuarios frecuentes.\n\n## Producto Futuro: Pr\u00e9stamos Personales HistoriaCard\nEn el horizonte, HistoriaCard planea lanzar un nuevo producto: Pr\u00e9stamos Personales. Este producto estar\u00e1 dise\u00f1ado para ayudar a los usuarios a financiar proyectos\nimportantes, consolidar deudas o enfrentar emergencias imprevistas, todo mientras contin\u00faan mejorando su historial crediticio.\n\n### Caracter\u00edsticas anticipadas:\n- Montos de pr\u00e9stamo: Desde $10,000 hasta $100,000 MXN.\n- Plazos de pago: De 6 a 36 meses, con opciones de pago anticipado sin penalizaci\u00f3n.\n- Tasa de inter\u00e9s: Competitiva, basada en el perfil crediticio del usuario, con la posibilidad de reducir la tasa mediante pagos puntuales.\n- Comisiones: Sin comisiones por apertura; peque\u00f1as comisiones por retraso en pagos.\n\n### Beneficios adicionales:\n- Asesor\u00eda financiera personalizada para gestionar el pr\u00e9stamo.\n- Acceso a herramientas de planificaci\u00f3n dentro de la app para monitorear el progreso del pago.\n",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 4
+            },
+            "score": 0.15683775036468806
+          },
+          {
+            "text": ": 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que sea mayor, con flexibilidad para realizar pagos anticipados sin penalizaci\u00f3n.\n- Comisiones: Sin comisiones por anualidad durante el primer a\u00f1o; a partir del segundo a\u00f1o, la anualidad es de $500 MXN, con descuentos disponibles por uso\nfrecuente.\n\n### Beneficios adicionales:\n- Programa de recompensas: Acumula puntos por cada compra, que pueden canjearse por descuentos, productos o experiencias.\n- Seguro de protecci\u00f3n de compras: Cubre da\u00f1os o robos de art\u00edculos adquiridos con la tarjeta.\n- Acceso a promociones exclusivas: Ofertas especiales en comercios afiliados y eventos \u00fanicos.\n- Asistencia en viajes: Incluye seguro de viaje y asistencia en el extranjero, desde emergencias m\u00e9dicas hasta reemplazo de tarjetas.\n\n## Tarjeta de D\u00e9bito HistoriaCard\nLa tarjeta de d\u00e9bito HistoriaCard ofrece una",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 1
+            },
+            "score": 0.14788491423697753
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 beneficios ofrece la tarjeta de d\u00e9bito HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": ": 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que sea mayor, con flexibilidad para realizar pagos anticipados sin penalizaci\u00f3n.\n- Comisiones: Sin comisiones por anualidad durante el primer a\u00f1o; a partir del segundo a\u00f1o, la anualidad es de $500 MXN, con descuentos disponibles por uso\nfrecuente.\n\n### Beneficios adicionales:\n- Programa de recompensas: Acumula puntos por cada compra, que pueden canjearse por descuentos, productos o experiencias.\n- Seguro de protecci\u00f3n de compras: Cubre da\u00f1os o robos de art\u00edculos adquiridos con la tarjeta.\n- Acceso a promociones exclusivas: Ofertas especiales en comercios afiliados y eventos \u00fanicos.\n- Asistencia en viajes: Incluye seguro de viaje y asistencia en el extranjero, desde emergencias m\u00e9dicas hasta reemplazo de tarjetas.\n\n## Tarjeta de D\u00e9bito HistoriaCard\nLa tarjeta de d\u00e9bito HistoriaCard ofrece una",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 1
+            },
+            "score": 0.20187129256241512
+          },
+          {
+            "text": "# Productos Ofrecidos por HistoriaCard\n\nHistoriaCard ofrece dos productos financieros principales: una tarjeta de cr\u00e9dito y una tarjeta de d\u00e9bito, cada uno dise\u00f1ado para satisfacer diferentes aspectos de\nlas necesidades financieras de los usuarios.\n\n## Tarjeta de Cr\u00e9dito HistoriaCard\nLa tarjeta de cr\u00e9dito HistoriaCard es un producto clave para aquellos que buscan construir o mejorar su historial crediticio. Esta tarjeta no solo permite realizar\ncompras, sino que tambi\u00e9n educa a los usuarios sobre el manejo responsable del cr\u00e9dito, un componente esencial para alcanzar la estabilidad financiera.\n\n### Caracter\u00edsticas principales:\n- L\u00ednea de cr\u00e9dito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos peri\u00f3dicos basados en el comportamiento crediticio del usuario.\n- Tasa de inter\u00e9s anual: 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 0
+            },
+            "score": 0.17628422143176287
+          },
+          {
+            "text": "en viajes: Incluye seguro de viaje y asistencia en el extranjero, desde emergencias m\u00e9dicas hasta reemplazo de tarjetas.\n\n## Tarjeta de D\u00e9bito HistoriaCard\nLa tarjeta de d\u00e9bito HistoriaCard ofrece una experiencia bancaria completa, segura y sin complicaciones. Es ideal para aquellos que prefieren manejar sus finanzas\nsin cr\u00e9dito, permitiendo una gesti\u00f3n f\u00e1cil y efectiva de su dinero.\n\n### Caracter\u00edsticas principales:\n- Costo de emisi\u00f3n: Gratuito al abrir una cuenta en la app de HistoriaCard, con la tarjeta enviada directamente al domicilio del usuario.\n- Mantenimiento de cuenta: Sin comisiones mensuales ni de manejo de cuenta, con opciones para establecer metas de ahorro y automatizar dep\u00f3sitos.\n- Retiro de efectivo: Sin costo en cajeros autom\u00e1ticos de la red HistoriaCard; $30 MXN por retiro en otros cajeros, con reembolsos limitados en cajeros de\nterceros.\n- Transferencias bancarias: Ilimitadas y sin costo a trav\u00e9s de SPEI, con posibilidad de programar transferencias autom\u00e1ticas.\n- In",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 2
+            },
+            "score": 0.1628142659084427
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 nuevo producto planea lanzar HistoriaCard en el futuro?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "ro en otros cajeros, con reembolsos limitados en cajeros de\nterceros.\n- Transferencias bancarias: Ilimitadas y sin costo a trav\u00e9s de SPEI, con posibilidad de programar transferencias autom\u00e1ticas.\n- Intereses sobre saldo: Hasta 4% anual sobre el saldo promedio mensual, aplicable hasta $150,000 MXN, fomentando el ahorro con recompensas tangibles.\n- Pagos y compras: La tarjeta puede utilizarse en cualquier comercio f\u00edsico u online que acepte tarjetas Visa, incluyendo suscripciones a servicios digitales.\n\n### Beneficios adicionales:\n- Alertas instant\u00e1neas: Recibe notificaciones en tiempo real por cada transacci\u00f3n.\n- Bloqueo y desbloqueo desde la app: Seguridad total en caso de p\u00e9rdida o robo.\n- Promociones exclusivas: Descuentos en comercios y servicios seleccionados, adem\u00e1s de ofertas especiales para usuarios frecuentes.\n\n## Producto Futuro: Pr\u00e9stamos Personales HistoriaCard\nEn el horizonte, HistoriaCard planea lanzar un nuevo producto: Pr\u00e9stamos Personales. Este producto estar\u00e1 dise\u00f1ado ",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 3
+            },
+            "score": 0.2879076563612871
+          },
+          {
+            "text": "les para usuarios frecuentes.\n\n## Producto Futuro: Pr\u00e9stamos Personales HistoriaCard\nEn el horizonte, HistoriaCard planea lanzar un nuevo producto: Pr\u00e9stamos Personales. Este producto estar\u00e1 dise\u00f1ado para ayudar a los usuarios a financiar proyectos\nimportantes, consolidar deudas o enfrentar emergencias imprevistas, todo mientras contin\u00faan mejorando su historial crediticio.\n\n### Caracter\u00edsticas anticipadas:\n- Montos de pr\u00e9stamo: Desde $10,000 hasta $100,000 MXN.\n- Plazos de pago: De 6 a 36 meses, con opciones de pago anticipado sin penalizaci\u00f3n.\n- Tasa de inter\u00e9s: Competitiva, basada en el perfil crediticio del usuario, con la posibilidad de reducir la tasa mediante pagos puntuales.\n- Comisiones: Sin comisiones por apertura; peque\u00f1as comisiones por retraso en pagos.\n\n### Beneficios adicionales:\n- Asesor\u00eda financiera personalizada para gestionar el pr\u00e9stamo.\n- Acceso a herramientas de planificaci\u00f3n dentro de la app para monitorear el progreso del pago.\n",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 4
+            },
+            "score": 0.2748910031514094
+          },
+          {
+            "text": "aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante cambio.\n",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 1
+            },
+            "score": 0.12207411402958887
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 secciones principales tiene la aplicaci\u00f3n de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.10982915853676398
+          },
+          {
+            "text": "# Productos Ofrecidos por HistoriaCard\n\nHistoriaCard ofrece dos productos financieros principales: una tarjeta de cr\u00e9dito y una tarjeta de d\u00e9bito, cada uno dise\u00f1ado para satisfacer diferentes aspectos de\nlas necesidades financieras de los usuarios.\n\n## Tarjeta de Cr\u00e9dito HistoriaCard\nLa tarjeta de cr\u00e9dito HistoriaCard es un producto clave para aquellos que buscan construir o mejorar su historial crediticio. Esta tarjeta no solo permite realizar\ncompras, sino que tambi\u00e9n educa a los usuarios sobre el manejo responsable del cr\u00e9dito, un componente esencial para alcanzar la estabilidad financiera.\n\n### Caracter\u00edsticas principales:\n- L\u00ednea de cr\u00e9dito inicial: $5,000 - $50,000 MXN, con posibilidad de aumentos peri\u00f3dicos basados en el comportamiento crediticio del usuario.\n- Tasa de inter\u00e9s anual: 24% - 36%, ajustada seg\u00fan el perfil crediticio del usuario y con opciones para reducir la tasa mediante un historial de pagos puntual.\n- Pago m\u00ednimo mensual: 5% del saldo adeudado o $200 MXN, lo que",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 0
+            },
+            "score": 0.10863130238783811
+          },
+          {
+            "text": "con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso con la educaci\u00f3n financiera, ofreciendo recursos que permiten a los usuarios tomar decisiones informadas sobre\nsus finanzas personales. Esta secci\u00f3n es fundamental para la misi\u00f3n de la empresa de empoderar a sus usuarios.\n- Art\u00edculos y gu\u00edas: Una extensa biblioteca de contenido educativo que cubre desde conceptos b\u00e1sicos, como la importancia del ahorro y la creaci\u00f3n de un\npresupuesto, hasta temas m\u00e1s avanzados como la inversi\u00f3n y la planificaci\u00f3n para la jubilaci\u00f3n.\n- Calculadoras financieras: Herramientas interactivas que permiten a los usuarios calcular el costo total de un pr\u00e9stamo, proyectar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas,",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 5
+            },
+            "score": 0.0988842263290381
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 funcionalidades ofrece el Panel de Control de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Descripci\u00f3n de la App HistoriaCard\n\nLa app HistoriaCard es el centro de la experiencia del usuario, proporcionando una interfaz intuitiva y completa para la gesti\u00f3n de finanzas. Desde el primer acceso,\nlos usuarios tienen a su disposici\u00f3n una variedad de herramientas y recursos que les permiten controlar su situaci\u00f3n financiera con facilidad.\n\n## 1. Panel de Control\nEl Panel de Control act\u00faa como la puerta de entrada al mundo de HistoriaCard, ofreciendo un resumen claro y conciso del estado financiero del usuario. Este panel\npermite acceder r\u00e1pidamente a:\n- Saldo disponible: Mostrando el saldo tanto en la cuenta de d\u00e9bito como en la l\u00ednea de cr\u00e9dito, junto con un resumen de ingresos y egresos recientes.\n- Resumen de movimientos recientes: Detalles de las \u00faltimas transacciones realizadas, con opciones para etiquetar y clasificar gastos, facilitando el control\npresupuestario.\n- Indicadores financieros: Presenta el puntaje crediticio del usuario, junto con tendencias a lo largo del tiem",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 0
+            },
+            "score": 0.2904448526550501
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.06977633601624274
+          },
+          {
+            "text": "os si sospecha de un uso no autorizado.\n- Solicitar tarjetas adicionales: Los usuarios pueden pedir tarjetas adicionales para familiares o para uso espec\u00edfico, como compras en l\u00ednea, con l\u00edmites de\ngasto personalizados.\n- Historial detallado de transacciones: An\u00e1lisis profundo de las transacciones, con herramientas para categorizar gastos y planificar el presupuesto.\n\n## 4. Pagos\nLa secci\u00f3n de Pagos es una de las m\u00e1s utilizadas dentro de la app, facilitando la realizaci\u00f3n de pagos de manera r\u00e1pida y segura. Las funcionalidades incluyen:\n- Pago de tarjeta de cr\u00e9dito: Opci\u00f3n de realizar pagos m\u00ednimos, pagos totales o seleccionar un monto espec\u00edfico, con recordatorios autom\u00e1ticos para evitar\ncargos por retraso.\n- Transferencias bancarias: Env\u00edo de dinero a cuentas bancarias en M\u00e9xico y el extranjero, con soporte para m\u00faltiples divisas y opciones para guardar\nbeneficiarios frecuentes.\n- Pago de servicios: Desde servicios p\u00fablicos como agua, luz, y gas, hasta suscripciones a plataformas dig",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 3
+            },
+            "score": 0.0643063349102306
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 opciones de pago permite la app de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.21257264257051806
+          },
+          {
+            "text": "ranjero, con soporte para m\u00faltiples divisas y opciones para guardar\nbeneficiarios frecuentes.\n- Pago de servicios: Desde servicios p\u00fablicos como agua, luz, y gas, hasta suscripciones a plataformas digitales y telecomunicaciones, los usuarios pueden\nrealizar todos sus pagos desde la app. La opci\u00f3n de programar pagos recurrentes asegura que nunca se pasen fechas de vencimiento, eliminando la\npreocupaci\u00f3n por cortes de servicio.\n- Pago entre usuarios de HistoriaCard: Los usuarios pueden enviar y recibir dinero entre cuentas de HistoriaCard de forma instant\u00e1nea y sin costo alguno. Esta\nfunci\u00f3n es ideal para dividir gastos con amigos o familiares, como cenas, viajes, o cualquier otro gasto compartido.\n- Recargas de tiempo aire: Recarga de tel\u00e9fonos m\u00f3viles directamente desde la app, compatible con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso ",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 4
+            },
+            "score": 0.13777759807464537
+          },
+          {
+            "text": "# Descripci\u00f3n de la App HistoriaCard\n\nLa app HistoriaCard es el centro de la experiencia del usuario, proporcionando una interfaz intuitiva y completa para la gesti\u00f3n de finanzas. Desde el primer acceso,\nlos usuarios tienen a su disposici\u00f3n una variedad de herramientas y recursos que les permiten controlar su situaci\u00f3n financiera con facilidad.\n\n## 1. Panel de Control\nEl Panel de Control act\u00faa como la puerta de entrada al mundo de HistoriaCard, ofreciendo un resumen claro y conciso del estado financiero del usuario. Este panel\npermite acceder r\u00e1pidamente a:\n- Saldo disponible: Mostrando el saldo tanto en la cuenta de d\u00e9bito como en la l\u00ednea de cr\u00e9dito, junto con un resumen de ingresos y egresos recientes.\n- Resumen de movimientos recientes: Detalles de las \u00faltimas transacciones realizadas, con opciones para etiquetar y clasificar gastos, facilitando el control\npresupuestario.\n- Indicadores financieros: Presenta el puntaje crediticio del usuario, junto con tendencias a lo largo del tiem",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 0
+            },
+            "score": 0.13115994310779763
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 recursos educativos ofrece HistoriaCard en su app?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.16770900164357727
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.13383981743762274
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.12469510608689971
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo funciona el programa de Recompensas de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.32465705776716786
+          },
+          {
+            "text": "y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer un servicio personalizado que se adapta a las necesidades individuales de sus usuarios.\n\n- Sof\u00eda Ram\u00edrez, 22 a\u00f1os, Guadalajara: \"La app de HistoriaCard me ha ayudado a aprender sobre finanzas de una manera sencilla y pr\u00e1ctica. Las calculadoras\nfinancieras son una herramienta incre\u00edble que uso para planificar mis gastos mensuales. Adem\u00e1s, el programa de recompensas es fant\u00e1stico; he podido\ncanjear puntos por boletos de avi\u00f3n y disfrutar de unas vacaciones sin gastar de m\u00e1s.\"\n",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 1
+            },
+            "score": 0.1460777357012829
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.13514318345075418
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 medidas de seguridad implementa HistoriaCard en su app?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.1884586205760044
+          },
+          {
+            "text": " HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en dos pasos para una seguridad adicional.\n\n## 9. Seguridad y Tecnolog\u00eda\nHistoriaCard entiende que la seguridad es primordial cuando se trata de finanzas personales. La fintech ha implementado m\u00faltiples capas de seguridad para\nproteger la informaci\u00f3n y los fondos de sus usuarios.\n- Cifrado de extremo a extremo: Toda la comunicaci\u00f3n dentro de la app est\u00e1 cifrada, asegurando que los datos sensibles nunca sean vulnerables a\nintercepciones.\n- Autenticaci\u00f3n biom\u00e9trica: Los usuarios pueden acceder a su cuenta mediante huella digital o reconocimiento facial, garantizando que solo el titular de la\ncuenta pueda acceder a la misma.\n- Detecci\u00f3n de fraudes: Sistemas avanzados de inteligencia artificial monitorean las transacciones en tiempo real para detectar actividades sospechosas y\nprevenir fraudes a",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 10
+            },
+            "score": 0.1366055273719628
+          },
+          {
+            "text": "ridad: Activaci\u00f3n de autenticaci\u00f3n en dos pasos, cambios de contrase\u00f1a frecuentes, y configuraci\u00f3n de alertas personalizadas.\n- Gesti\u00f3n de dispositivos conectados: Monitoreo de los dispositivos autorizados para acceder a la cuenta, con la posibilidad de desvincular cualquier\ndispositivo no reconocido.\n- Historial de seguridad: Acceso a un registro completo de inicios de sesi\u00f3n y cambios de configuraci\u00f3n.\n\n## 3. Tarjetas\nLa secci\u00f3n de Tarjetas proporciona control total sobre las tarjetas de cr\u00e9dito y d\u00e9bito asociadas a la cuenta HistoriaCard. Las funciones clave incluyen:\n- Visualizaci\u00f3n de detalles de la tarjeta: Incluyendo la opci\u00f3n de ver el n\u00famero completo de la tarjeta bajo medidas de seguridad estrictas.\n- Bloqueo/desbloqueo instant\u00e1neo: Permite al usuario proteger su cuenta en segundos si sospecha de un uso no autorizado.\n- Solicitar tarjetas adicionales: Los usuarios pueden pedir tarjetas adicionales para familiares o para uso espec\u00edfico, como compras en l\u00ednea, con l\u00edmites de\nga",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 2
+            },
+            "score": 0.11492112487589475
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 alianzas ha establecido HistoriaCard con comercios?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Alianzas Estrat\u00e9gicas e Innovaci\u00f3n\n\n## Alianzas con Comercios y Proveedores\nHistoriaCard ha forjado alianzas con una red extensa de comercios y proveedores de servicios en todo M\u00e9xico. Estas alianzas permiten a los usuarios de\nHistoriaCard acceder a descuentos exclusivos y promociones especiales, creando un ecosistema de valor a\u00f1adido que beneficia tanto a los usuarios como a los\nsocios comerciales.\n\n## Innovaci\u00f3n y Tecnolog\u00eda\nHistoriaCard est\u00e1 a la vanguardia de la tecnolog\u00eda financiera, constantemente innovando para mejorar la experiencia del usuario. Utilizando inteligencia artificial, big\ndata, y an\u00e1lisis predictivo, la fintech ofrece soluciones personalizadas y altamente eficientes.\n\n- IA para an\u00e1lisis de cr\u00e9dito: HistoriaCard utiliza modelos avanzados de IA para evaluar el riesgo crediticio de manera m\u00e1s precisa, permitiendo ofrecer tasas\nde inter\u00e9s personalizadas que reflejan con mayor exactitud la capacidad de pago del usuario.\n- BigData para personalizaci\u00f3n: Los algoritmos d",
+            "metadata": {
+              "source": "alianzas_innovacion.txt",
+              "chunk_id": 0
+            },
+            "score": 0.25686108338699065
+          },
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.15791595875949863
+          },
+          {
+            "text": "por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que se abona directamente a su cuenta de d\u00e9bito o se aplica como un\ncr\u00e9dito en su estado de cuenta de la tarjeta de cr\u00e9dito.\n- Descuentos en compras: Canjea puntos por descuentos en compras en comercios afiliados, desde supermercados y tiendas de ropa hasta restaurantes y\nservicios en l\u00ednea.\n- Vuelos y hoteles: HistoriaCard ha establecido alianzas con aerol\u00edneas y cadenas hoteleras para ofrecer a sus usuarios la posibilidad de canjear puntos por\nboletos de avi\u00f3n, noches de hotel, y paquetes vacacionales.\n- Experiencias \u00fanicas: Los usuarios tambi\u00e9n pueden utilizar sus puntos para acceder a experiencias exclusivas, como eventos culturales, conciertos, y cenas\ngourmet en restaurantes de alta categor\u00eda.\n\n## 7. Soporte\nEl soporte al cliente es una piedra angular del servicio que ofrece HistoriaCard.",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 7
+            },
+            "score": 0.13129988810265533
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 tecnolog\u00edas innovadoras utiliza HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Alianzas Estrat\u00e9gicas e Innovaci\u00f3n\n\n## Alianzas con Comercios y Proveedores\nHistoriaCard ha forjado alianzas con una red extensa de comercios y proveedores de servicios en todo M\u00e9xico. Estas alianzas permiten a los usuarios de\nHistoriaCard acceder a descuentos exclusivos y promociones especiales, creando un ecosistema de valor a\u00f1adido que beneficia tanto a los usuarios como a los\nsocios comerciales.\n\n## Innovaci\u00f3n y Tecnolog\u00eda\nHistoriaCard est\u00e1 a la vanguardia de la tecnolog\u00eda financiera, constantemente innovando para mejorar la experiencia del usuario. Utilizando inteligencia artificial, big\ndata, y an\u00e1lisis predictivo, la fintech ofrece soluciones personalizadas y altamente eficientes.\n\n- IA para an\u00e1lisis de cr\u00e9dito: HistoriaCard utiliza modelos avanzados de IA para evaluar el riesgo crediticio de manera m\u00e1s precisa, permitiendo ofrecer tasas\nde inter\u00e9s personalizadas que reflejan con mayor exactitud la capacidad de pago del usuario.\n- BigData para personalizaci\u00f3n: Los algoritmos d",
+            "metadata": {
+              "source": "alianzas_innovacion.txt",
+              "chunk_id": 0
+            },
+            "score": 0.08220678455598705
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.07594896418564992
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.06853527316842499
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfPara qu\u00e9 utiliza HistoriaCard la inteligencia artificial?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Alianzas Estrat\u00e9gicas e Innovaci\u00f3n\n\n## Alianzas con Comercios y Proveedores\nHistoriaCard ha forjado alianzas con una red extensa de comercios y proveedores de servicios en todo M\u00e9xico. Estas alianzas permiten a los usuarios de\nHistoriaCard acceder a descuentos exclusivos y promociones especiales, creando un ecosistema de valor a\u00f1adido que beneficia tanto a los usuarios como a los\nsocios comerciales.\n\n## Innovaci\u00f3n y Tecnolog\u00eda\nHistoriaCard est\u00e1 a la vanguardia de la tecnolog\u00eda financiera, constantemente innovando para mejorar la experiencia del usuario. Utilizando inteligencia artificial, big\ndata, y an\u00e1lisis predictivo, la fintech ofrece soluciones personalizadas y altamente eficientes.\n\n- IA para an\u00e1lisis de cr\u00e9dito: HistoriaCard utiliza modelos avanzados de IA para evaluar el riesgo crediticio de manera m\u00e1s precisa, permitiendo ofrecer tasas\nde inter\u00e9s personalizadas que reflejan con mayor exactitud la capacidad de pago del usuario.\n- BigData para personalizaci\u00f3n: Los algoritmos d",
+            "metadata": {
+              "source": "alianzas_innovacion.txt",
+              "chunk_id": 0
+            },
+            "score": 0.18746411170303
+          },
+          {
+            "text": "nvirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas descentralizadas (DeFi), para seguir innovando y ofreciendo productos financieros que realmente hagan una\ndiferencia en la vida de sus usuarios.\n\n- Inteligencia artificial avanzada: HistoriaCard planea integrar IA avanzada para ofrecer asesoramiento financiero automatizado y altamente personalizado.\n- DeFi: La empresa est\u00e1 explorando c\u00f3mo las finanzas descentralizadas pueden integrarse en su plataforma para ofrecer servicios financieros m\u00e1s accesibles\ny transparentes a un p\u00fablico m\u00e1s amplio.\n",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 1
+            },
+            "score": 0.1874007619820633
+          },
+          {
+            "text": "a pueda acceder a la misma.\n- Detecci\u00f3n de fraudes: Sistemas avanzados de inteligencia artificial monitorean las transacciones en tiempo real para detectar actividades sospechosas y\nprevenir fraudes antes de que ocurran.\n- Alertas de seguridad: Los usuarios reciben notificaciones inmediatas ante cualquier actividad inusual en su cuenta, con la opci\u00f3n de bloquear la tarjeta\ndirectamente desde la notificaci\u00f3n.\n- Actualizaciones constantes: La app se actualiza regularmente para incorporar las \u00faltimas mejoras en seguridad y tecnolog\u00eda, manteniendo la protecci\u00f3n de\nlos usuarios a la vanguardia.\n",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 11
+            },
+            "score": 0.13824568991299607
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo cumple HistoriaCard con las regulaciones financieras?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Cumplimiento Normativo y \u00c9tica\n\nHistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y\nservicios cumplan con las leyes aplicables, incluyendo las normas de protecci\u00f3n al consumidor y las regulaciones contra el lavado de dinero.\n\n- Protecci\u00f3n al consumidor: HistoriaCard se compromete a la transparencia y a la protecci\u00f3n de los derechos del consumidor, proporcionando informaci\u00f3n\nclara y accesible sobre todos sus productos y servicios.\n- Pol\u00edticas AML/KYC: La fintech implementa pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios\nno sean utilizados para actividades il\u00edcitas.\n- \u00c9tica empresarial: HistoriaCard se adhiere a un c\u00f3digo de \u00e9tica empresarial que pone a los clientes en primer lugar, garantizando pr\u00e1cticas comerciales justas\ny responsables en todas las facetas de su operaci\u00f3n.\n",
+            "metadata": {
+              "source": "cumplimiento_normativo.txt"
+            },
+            "score": 0.21241240039654405
+          },
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.16879701915368608
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.11889285844845815
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "HistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y servicios cumplan con las leyes aplicables, incluyendo las normas de protecci\u00f3n al consumidor y las regulaciones contra el lavado de dinero. Esto incluye implementar pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML), as\u00ed como adherirse a un c\u00f3digo de \u00e9tica empresarial que pone a los clientes en primer lugar.",
+        "rouge_1": 0.7422680365692422,
+        "rouge_2": 0.7179487133464827,
+        "rouge_l": 0.7422680365692422
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 pol\u00edticas implementa HistoriaCard para prevenir el lavado de dinero?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Cumplimiento Normativo y \u00c9tica\n\nHistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y\nservicios cumplan con las leyes aplicables, incluyendo las normas de protecci\u00f3n al consumidor y las regulaciones contra el lavado de dinero.\n\n- Protecci\u00f3n al consumidor: HistoriaCard se compromete a la transparencia y a la protecci\u00f3n de los derechos del consumidor, proporcionando informaci\u00f3n\nclara y accesible sobre todos sus productos y servicios.\n- Pol\u00edticas AML/KYC: La fintech implementa pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios\nno sean utilizados para actividades il\u00edcitas.\n- \u00c9tica empresarial: HistoriaCard se adhiere a un c\u00f3digo de \u00e9tica empresarial que pone a los clientes en primer lugar, garantizando pr\u00e1cticas comerciales justas\ny responsables en todas las facetas de su operaci\u00f3n.\n",
+            "metadata": {
+              "source": "cumplimiento_normativo.txt"
+            },
+            "score": 0.2504609588873146
+          },
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.08015924117548653
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.06774214790993763
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "HistoriaCard implementa pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios no sean utilizados para actividades il\u00edcitas.",
+        "rouge_1": 0.999999995,
+        "rouge_2": 0.999999995,
+        "rouge_l": 0.999999995
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1l es el compromiso de HistoriaCard con la protecci\u00f3n al consumidor?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Cumplimiento Normativo y \u00c9tica\n\nHistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y\nservicios cumplan con las leyes aplicables, incluyendo las normas de protecci\u00f3n al consumidor y las regulaciones contra el lavado de dinero.\n\n- Protecci\u00f3n al consumidor: HistoriaCard se compromete a la transparencia y a la protecci\u00f3n de los derechos del consumidor, proporcionando informaci\u00f3n\nclara y accesible sobre todos sus productos y servicios.\n- Pol\u00edticas AML/KYC: La fintech implementa pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios\nno sean utilizados para actividades il\u00edcitas.\n- \u00c9tica empresarial: HistoriaCard se adhiere a un c\u00f3digo de \u00e9tica empresarial que pone a los clientes en primer lugar, garantizando pr\u00e1cticas comerciales justas\ny responsables en todas las facetas de su operaci\u00f3n.\n",
+            "metadata": {
+              "source": "cumplimiento_normativo.txt"
+            },
+            "score": 0.33133329102054576
+          },
+          {
+            "text": "con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso con la educaci\u00f3n financiera, ofreciendo recursos que permiten a los usuarios tomar decisiones informadas sobre\nsus finanzas personales. Esta secci\u00f3n es fundamental para la misi\u00f3n de la empresa de empoderar a sus usuarios.\n- Art\u00edculos y gu\u00edas: Una extensa biblioteca de contenido educativo que cubre desde conceptos b\u00e1sicos, como la importancia del ahorro y la creaci\u00f3n de un\npresupuesto, hasta temas m\u00e1s avanzados como la inversi\u00f3n y la planificaci\u00f3n para la jubilaci\u00f3n.\n- Calculadoras financieras: Herramientas interactivas que permiten a los usuarios calcular el costo total de un pr\u00e9stamo, proyectar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas,",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 5
+            },
+            "score": 0.13089299786289965
+          },
+          {
+            "text": "ranjero, con soporte para m\u00faltiples divisas y opciones para guardar\nbeneficiarios frecuentes.\n- Pago de servicios: Desde servicios p\u00fablicos como agua, luz, y gas, hasta suscripciones a plataformas digitales y telecomunicaciones, los usuarios pueden\nrealizar todos sus pagos desde la app. La opci\u00f3n de programar pagos recurrentes asegura que nunca se pasen fechas de vencimiento, eliminando la\npreocupaci\u00f3n por cortes de servicio.\n- Pago entre usuarios de HistoriaCard: Los usuarios pueden enviar y recibir dinero entre cuentas de HistoriaCard de forma instant\u00e1nea y sin costo alguno. Esta\nfunci\u00f3n es ideal para dividir gastos con amigos o familiares, como cenas, viajes, o cualquier otro gasto compartido.\n- Recargas de tiempo aire: Recarga de tel\u00e9fonos m\u00f3viles directamente desde la app, compatible con todas las principales operadoras de M\u00e9xico, con\nbonificaciones y descuentos exclusivos para usuarios de HistoriaCard.\n\n## 5. Educaci\u00f3n Financiera\nHistoriaCard se distingue por su firme compromiso ",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 4
+            },
+            "score": 0.10545019757952846
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo promueve HistoriaCard la inclusi\u00f3n financiera?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.2870520367346212
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.20304784647986351
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.16081527243070892
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 programas educativos ofrece HistoriaCard fuera de su app?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.21164951205459553
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.11476505421871003
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.11225737784025679
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo contribuye HistoriaCard a la sostenibilidad?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.27608817800930063
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.1773439144276831
+          },
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.1650472193528765
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCon qu\u00e9 organizaciones colabora HistoriaCard para su impacto social?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.18027464339337046
+          },
+          {
+            "text": "lanificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables. Estos\nprogramas incluyen la provisi\u00f3n de recursos educativos, la creaci\u00f3n de programas de microcr\u00e9ditos, y la implementaci\u00f3n de iniciativas que promueven la econom\u00eda\nlocal.\n\n## Sostenibilidad\nHistoriaCard se compromete con la sostenibilidad, no solo a trav\u00e9s de sus productos financieros, sino tambi\u00e9n en sus operaciones diarias. La fintech ha\nimplementado pol\u00edticas de cero papel en sus oficinas y promueve el uso de herramientas digitales para reducir la huella de carbono. Adem\u00e1s, HistoriaCard invierte en\nproyectos de energ\u00eda renovable y en la compensaci\u00f3n de su impacto ambiental.\n",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 1
+            },
+            "score": 0.1367912078459557
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.11232290707101016
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1les son los planes de expansi\u00f3n de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Proyecciones Futuras y Expansi\u00f3n\n\n## Expansi\u00f3n Nacional e Internacional\nHistoriaCard tiene planes ambiciosos de expansi\u00f3n tanto en M\u00e9xico como en el extranjero. En los pr\u00f3ximos cinco a\u00f1os, la fintech planea aumentar su presencia en\ntodas las regiones del pa\u00eds y explorar oportunidades en otros mercados emergentes de Am\u00e9rica Latina.\n\n- Expansi\u00f3n de productos: Adem\u00e1s de los pr\u00e9stamos personales, HistoriaCard est\u00e1 desarrollando una gama de nuevos productos financieros, incluyendo\nseguros y herramientas de inversi\u00f3n, que se lanzar\u00e1n en los pr\u00f3ximos a\u00f1os.\n- Penetraci\u00f3n de mercado: La empresa est\u00e1 invirtiendo en marketing digital y colaboraciones estrat\u00e9gicas para aumentar su base de usuarios, con un enfoque\nparticular en poblaciones no bancarizadas.\n\n## Innovaci\u00f3n Continua\nHistoriaCard sigue invirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas de",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 0
+            },
+            "score": 0.327905305368374
+          },
+          {
+            "text": "# Testimonios de Clientes\n\n## Transformaci\u00f3n de Historias de Vida\nHistoriaCard ha cambiado la vida de miles de mexicanos, y sus historias son el testimonio m\u00e1s fuerte del impacto positivo de la fintech.\n\n- Ana Mart\u00ednez, 28 a\u00f1os, Ciudad de M\u00e9xico: \"Antes de HistoriaCard, ten\u00eda miedo de usar tarjetas de cr\u00e9dito por todas las historias de deudas que hab\u00eda\nescuchado. Pero con la gu\u00eda y las herramientas educativas que ofrece la app, he aprendido a manejar mi cr\u00e9dito de manera responsable y ahora tengo un\nexcelente puntaje crediticio. Gracias a HistoriaCard, logr\u00e9 comprar mi primer auto.\"\n\n- Juan Carlos Hern\u00e1ndez, 35 a\u00f1os, Monterrey: \"Despu\u00e9s de pasar por un mal momento financiero, mi historial crediticio estaba por los suelos. HistoriaCard me\nofreci\u00f3 una oportunidad para reconstruir mi cr\u00e9dito y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer u",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 0
+            },
+            "score": 0.0721291881650866
+          },
+          {
+            "text": "y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer un servicio personalizado que se adapta a las necesidades individuales de sus usuarios.\n\n- Sof\u00eda Ram\u00edrez, 22 a\u00f1os, Guadalajara: \"La app de HistoriaCard me ha ayudado a aprender sobre finanzas de una manera sencilla y pr\u00e1ctica. Las calculadoras\nfinancieras son una herramienta incre\u00edble que uso para planificar mis gastos mensuales. Adem\u00e1s, el programa de recompensas es fant\u00e1stico; he podido\ncanjear puntos por boletos de avi\u00f3n y disfrutar de unas vacaciones sin gastar de m\u00e1s.\"\n",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 1
+            },
+            "score": 0.07179613632066206
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 nuevos productos planea desarrollar HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Proyecciones Futuras y Expansi\u00f3n\n\n## Expansi\u00f3n Nacional e Internacional\nHistoriaCard tiene planes ambiciosos de expansi\u00f3n tanto en M\u00e9xico como en el extranjero. En los pr\u00f3ximos cinco a\u00f1os, la fintech planea aumentar su presencia en\ntodas las regiones del pa\u00eds y explorar oportunidades en otros mercados emergentes de Am\u00e9rica Latina.\n\n- Expansi\u00f3n de productos: Adem\u00e1s de los pr\u00e9stamos personales, HistoriaCard est\u00e1 desarrollando una gama de nuevos productos financieros, incluyendo\nseguros y herramientas de inversi\u00f3n, que se lanzar\u00e1n en los pr\u00f3ximos a\u00f1os.\n- Penetraci\u00f3n de mercado: La empresa est\u00e1 invirtiendo en marketing digital y colaboraciones estrat\u00e9gicas para aumentar su base de usuarios, con un enfoque\nparticular en poblaciones no bancarizadas.\n\n## Innovaci\u00f3n Continua\nHistoriaCard sigue invirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas de",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 0
+            },
+            "score": 0.1405270441439243
+          },
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.07160545324452124
+          },
+          {
+            "text": "nvirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas descentralizadas (DeFi), para seguir innovando y ofreciendo productos financieros que realmente hagan una\ndiferencia en la vida de sus usuarios.\n\n- Inteligencia artificial avanzada: HistoriaCard planea integrar IA avanzada para ofrecer asesoramiento financiero automatizado y altamente personalizado.\n- DeFi: La empresa est\u00e1 explorando c\u00f3mo las finanzas descentralizadas pueden integrarse en su plataforma para ofrecer servicios financieros m\u00e1s accesibles\ny transparentes a un p\u00fablico m\u00e1s amplio.\n",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 1
+            },
+            "score": 0.0709125964988952
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 tecnolog\u00edas futuras est\u00e1 explorando HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Proyecciones Futuras y Expansi\u00f3n\n\n## Expansi\u00f3n Nacional e Internacional\nHistoriaCard tiene planes ambiciosos de expansi\u00f3n tanto en M\u00e9xico como en el extranjero. En los pr\u00f3ximos cinco a\u00f1os, la fintech planea aumentar su presencia en\ntodas las regiones del pa\u00eds y explorar oportunidades en otros mercados emergentes de Am\u00e9rica Latina.\n\n- Expansi\u00f3n de productos: Adem\u00e1s de los pr\u00e9stamos personales, HistoriaCard est\u00e1 desarrollando una gama de nuevos productos financieros, incluyendo\nseguros y herramientas de inversi\u00f3n, que se lanzar\u00e1n en los pr\u00f3ximos a\u00f1os.\n- Penetraci\u00f3n de mercado: La empresa est\u00e1 invirtiendo en marketing digital y colaboraciones estrat\u00e9gicas para aumentar su base de usuarios, con un enfoque\nparticular en poblaciones no bancarizadas.\n\n## Innovaci\u00f3n Continua\nHistoriaCard sigue invirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas de",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 0
+            },
+            "score": 0.19188824199728646
+          },
+          {
+            "text": "nvirtiendo en tecnolog\u00eda y talento para mantener su posici\u00f3n como l\u00edder en el mercado fintech. La empresa est\u00e1 explorando nuevas tecnolog\u00edas,\ncomo la inteligencia artificial avanzada y las finanzas descentralizadas (DeFi), para seguir innovando y ofreciendo productos financieros que realmente hagan una\ndiferencia en la vida de sus usuarios.\n\n- Inteligencia artificial avanzada: HistoriaCard planea integrar IA avanzada para ofrecer asesoramiento financiero automatizado y altamente personalizado.\n- DeFi: La empresa est\u00e1 explorando c\u00f3mo las finanzas descentralizadas pueden integrarse en su plataforma para ofrecer servicios financieros m\u00e1s accesibles\ny transparentes a un p\u00fablico m\u00e1s amplio.\n",
+            "metadata": {
+              "source": "planes_futuros.txt",
+              "chunk_id": 1
+            },
+            "score": 0.1865196857778163
+          },
+          {
+            "text": "rediticio de manera m\u00e1s precisa, permitiendo ofrecer tasas\nde inter\u00e9s personalizadas que reflejan con mayor exactitud la capacidad de pago del usuario.\n- BigData para personalizaci\u00f3n: Los algoritmos de big data analizan el comportamiento financiero del usuario, ofreciendo recomendaciones personalizadas y\nalertas proactivas que ayudan a los usuarios a mejorar su salud financiera.\n- Blockchain para transparencia: HistoriaCard est\u00e1 explorando el uso de tecnolog\u00edas blockchain para aumentar la transparencia y la seguridad en las\ntransacciones financieras, asegurando que cada movimiento sea rastreable y seguro.\n",
+            "metadata": {
+              "source": "alianzas_innovacion.txt",
+              "chunk_id": 1
+            },
+            "score": 0.14224898607060588
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfPuede compartir un testimonio de un cliente de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5,
+        "retrieved_docs": [
+          {
+            "text": "# Testimonios de Clientes\n\n## Transformaci\u00f3n de Historias de Vida\nHistoriaCard ha cambiado la vida de miles de mexicanos, y sus historias son el testimonio m\u00e1s fuerte del impacto positivo de la fintech.\n\n- Ana Mart\u00ednez, 28 a\u00f1os, Ciudad de M\u00e9xico: \"Antes de HistoriaCard, ten\u00eda miedo de usar tarjetas de cr\u00e9dito por todas las historias de deudas que hab\u00eda\nescuchado. Pero con la gu\u00eda y las herramientas educativas que ofrece la app, he aprendido a manejar mi cr\u00e9dito de manera responsable y ahora tengo un\nexcelente puntaje crediticio. Gracias a HistoriaCard, logr\u00e9 comprar mi primer auto.\"\n\n- Juan Carlos Hern\u00e1ndez, 35 a\u00f1os, Monterrey: \"Despu\u00e9s de pasar por un mal momento financiero, mi historial crediticio estaba por los suelos. HistoriaCard me\nofreci\u00f3 una oportunidad para reconstruir mi cr\u00e9dito y, con su apoyo, ahora estoy en camino de comprar mi casa. Su enfoque en la educaci\u00f3n es lo que\nrealmente marca la diferencia.\"\n\n## Experiencias Personalizadas\nHistoriaCard se enorgullece de ofrecer u",
+            "metadata": {
+              "source": "testimonios.txt",
+              "chunk_id": 0
+            },
+            "score": 0.08612282496123849
+          },
+          {
+            "text": "ias exclusivas, como eventos culturales, conciertos, y cenas\ngourmet en restaurantes de alta categor\u00eda.\n\n## 7. Soporte\nEl soporte al cliente es una piedra angular del servicio que ofrece HistoriaCard. La empresa entiende que, en el mundo financiero, la rapidez y la eficiencia en la\nresoluci\u00f3n de problemas son esenciales para la satisfacci\u00f3n del cliente.\n- Chat en vivo: Disponible 24/7, el chat en vivo conecta a los usuarios con agentes capacitados que pueden resolver una amplia variedad de problemas, desde\ncuestiones t\u00e9cnicas hasta dudas sobre productos.\n- Centro de ayuda: Una base de conocimientos completa que incluye tutoriales, preguntas frecuentes, y gu\u00edas paso a paso para resolver problemas comunes de\nforma independiente.\n- Solicitudes de soporte: Los usuarios pueden abrir tickets de soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usua",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 8
+            },
+            "score": 0.08258449735210611
+          },
+          {
+            "text": "ro en otros cajeros, con reembolsos limitados en cajeros de\nterceros.\n- Transferencias bancarias: Ilimitadas y sin costo a trav\u00e9s de SPEI, con posibilidad de programar transferencias autom\u00e1ticas.\n- Intereses sobre saldo: Hasta 4% anual sobre el saldo promedio mensual, aplicable hasta $150,000 MXN, fomentando el ahorro con recompensas tangibles.\n- Pagos y compras: La tarjeta puede utilizarse en cualquier comercio f\u00edsico u online que acepte tarjetas Visa, incluyendo suscripciones a servicios digitales.\n\n### Beneficios adicionales:\n- Alertas instant\u00e1neas: Recibe notificaciones en tiempo real por cada transacci\u00f3n.\n- Bloqueo y desbloqueo desde la app: Seguridad total en caso de p\u00e9rdida o robo.\n- Promociones exclusivas: Descuentos en comercios y servicios seleccionados, adem\u00e1s de ofertas especiales para usuarios frecuentes.\n\n## Producto Futuro: Pr\u00e9stamos Personales HistoriaCard\nEn el horizonte, HistoriaCard planea lanzar un nuevo producto: Pr\u00e9stamos Personales. Este producto estar\u00e1 dise\u00f1ado ",
+            "metadata": {
+              "source": "productos.txt",
+              "chunk_id": 3
+            },
+            "score": 0.07999162442987096
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo ha ayudado HistoriaCard a mejorar el historial crediticio de sus clientes?",
+      "retrieval": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "retrieved_docs": [
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.1890598096366661
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.17666891072976137
+          },
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.16165668435847508
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfC\u00f3mo utilizan los j\u00f3venes la app de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "retrieved_docs": [
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.27667936134282833
+          },
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.2735899014271389
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.21084445671730245
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfPor qu\u00e9 elegir HistoriaCard en lugar de un banco tradicional?",
+      "retrieval": {
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1": 0.3333333333333333,
+        "retrieved_docs": [
+          {
+            "text": "por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que se abona directamente a su cuenta de d\u00e9bito o se aplica como un\ncr\u00e9dito en su estado de cuenta de la tarjeta de cr\u00e9dito.\n- Descuentos en compras: Canjea puntos por descuentos en compras en comercios afiliados, desde supermercados y tiendas de ropa hasta restaurantes y\nservicios en l\u00ednea.\n- Vuelos y hoteles: HistoriaCard ha establecido alianzas con aerol\u00edneas y cadenas hoteleras para ofrecer a sus usuarios la posibilidad de canjear puntos por\nboletos de avi\u00f3n, noches de hotel, y paquetes vacacionales.\n- Experiencias \u00fanicas: Los usuarios tambi\u00e9n pueden utilizar sus puntos para acceder a experiencias exclusivas, como eventos culturales, conciertos, y cenas\ngourmet en restaurantes de alta categor\u00eda.\n\n## 7. Soporte\nEl soporte al cliente es una piedra angular del servicio que ofrece HistoriaCard.",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 7
+            },
+            "score": 0.11339731573181745
+          },
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.11098692456011582
+          },
+          {
+            "text": "# Misi\u00f3n y Visi\u00f3n de HistoriaCard\n\n## Misi\u00f3n\nLa misi\u00f3n de HistoriaCard es proporcionar herramientas financieras innovadoras y educativas que empoderen a los usuarios para que mejoren su historial crediticio,\ngestionen sus finanzas de manera efectiva y adquieran habilidades que les permitan tomar decisiones financieras informadas. HistoriaCard est\u00e1 comprometida a\nofrecer productos accesibles y servicios que se adapten a las realidades y necesidades de sus clientes, ayud\u00e1ndoles a construir un futuro financiero m\u00e1s s\u00f3lido y\nestable.\n\n## Visi\u00f3n\nLa visi\u00f3n de HistoriaCard es convertirse en la fintech l\u00edder en M\u00e9xico y un referente mundial en la inclusi\u00f3n financiera, reconocida por su enfoque en la educaci\u00f3n\nfinanciera y su capacidad para transformar la vida de millones de personas. HistoriaCard aspira a establecer un nuevo est\u00e1ndar en el sector financiero, brindando a\nsus usuarios las herramientas necesarias para alcanzar la libertad financiera y prosperar en un mundo econ\u00f3mico en constante ",
+            "metadata": {
+              "source": "mision_vision.txt",
+              "chunk_id": 0
+            },
+            "score": 0.0988839219841338
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfQu\u00e9 caracter\u00edsticas tiene el programa de educaci\u00f3n financiera de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "retrieved_docs": [
+          {
+            "text": "# Introducci\u00f3n a HistoriaCard\n\nHistoriaCard es una fintech mexicana que ha emergido como un catalizador para el cambio financiero en M\u00e9xico. Fundada en 2018, la empresa se ha dedicado a\nofrecer soluciones innovadoras y accesibles, dise\u00f1adas espec\u00edficamente para atender las necesidades de los consumidores mexicanos. Con un enfoque en la\neducaci\u00f3n financiera, la mejora del historial crediticio y la promoci\u00f3n de un manejo responsable de las finanzas personales, HistoriaCard se ha ganado un lugar en el\ncoraz\u00f3n de miles de usuarios.\n\nA medida que la fintech sigue creciendo, su visi\u00f3n y misi\u00f3n permanecen firmes: transformar la vida financiera de sus clientes, gui\u00e1ndolos hacia un futuro econ\u00f3mico\nm\u00e1s brillante y seguro. Este documento ofrece una visi\u00f3n integral de la misi\u00f3n, visi\u00f3n, productos, caracter\u00edsticas de la app, impacto social y mucho m\u00e1s, subrayando\nc\u00f3mo HistoriaCard est\u00e1 construyendo un camino hacia la inclusi\u00f3n financiera y la educaci\u00f3n en M\u00e9xico.\n",
+            "metadata": {
+              "source": "introduccion.txt"
+            },
+            "score": 0.14011777848354748
+          },
+          {
+            "text": "ar sus ahorros a lo largo del\ntiempo, y evaluar el impacto de diferentes estrategias de pago en su deuda.\n- Cursos en l\u00ednea: HistoriaCard ofrece una serie de cursos dise\u00f1ados por expertos en finanzas, que cubren desde c\u00f3mo construir un buen historial crediticio\nhasta c\u00f3mo invertir en la bolsa de valores. Los usuarios pueden avanzar a su propio ritmo y recibir certificaciones al completar los cursos.\n- Asesor\u00eda personalizada: Los usuarios premium pueden acceder a sesiones de asesor\u00eda financiera personalizada, donde pueden discutir sus metas financieras\ncon un experto y recibir orientaci\u00f3n espec\u00edfica sobre c\u00f3mo alcanzarlas.\n\n## 6. Recompensas\nEl programa de Recompensas de HistoriaCard es una de las caracter\u00edsticas m\u00e1s atractivas de la tarjeta de cr\u00e9dito. Dise\u00f1ado para premiar a los usuarios por su uso\nresponsable de la tarjeta, este programa ofrece una amplia gama de opciones para redimir puntos.\n- Canjeo de puntos por efectivo: Los usuarios pueden convertir sus puntos en efectivo, que s",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 6
+            },
+            "score": 0.11619150383594185
+          },
+          {
+            "text": "# Impacto en la Sociedad y Responsabilidad Social\n\n## Inclusi\u00f3n Financiera\nUno de los principales objetivos de HistoriaCard es promover la inclusi\u00f3n financiera en M\u00e9xico. En un pa\u00eds donde un gran porcentaje de la poblaci\u00f3n sigue excluida del\nsistema financiero formal, HistoriaCard ofrece productos y servicios dise\u00f1ados para ser accesibles a todos, independientemente de su historial crediticio o ingresos.\n\n## Programas de Educaci\u00f3n y Concienciaci\u00f3n\nAdem\u00e1s de los recursos de educaci\u00f3n financiera disponibles en la app, HistoriaCard participa activamente en la comunidad mediante talleres y seminarios gratuitos.\nEstos eventos, dirigidos por expertos financieros, est\u00e1n enfocados en ense\u00f1ar a la poblaci\u00f3n sobre la importancia de mantener un buen historial crediticio, c\u00f3mo\nmanejar deudas, y c\u00f3mo planificar para el futuro.\n\n## Colaboraciones con ONGs\nHistoriaCard ha establecido alianzas estrat\u00e9gicas con organizaciones no gubernamentales para ampliar su alcance y ayudar a comunidades vulnerables",
+            "metadata": {
+              "source": "impacto_social.txt",
+              "chunk_id": 0
+            },
+            "score": 0.11439912357386424
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    },
+    {
+      "query": "\u00bfCu\u00e1les son las pol\u00edticas de privacidad y seguridad de HistoriaCard?",
+      "retrieval": {
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
+        "retrieved_docs": [
+          {
+            "text": "soporte para problemas m\u00e1s complejos y hacer un seguimiento de su estado directamente desde\nla app.\n- Llamadas de emergencia: En situaciones de urgencia, como el robo o p\u00e9rdida de la tarjeta, los usuarios pueden solicitar una llamada inmediata de un agente\nde soporte para tomar medidas r\u00e1pidas.\n\n## 8. Configuraci\u00f3n\nLa secci\u00f3n de Configuraci\u00f3n permite a los usuarios personalizar la app de acuerdo con sus preferencias y necesidades de seguridad.\n- Notificaciones: Configura qu\u00e9 tipos de alertas y notificaciones deseas recibir, como avisos de saldo bajo, recordatorios de pago, o alertas de transacciones\ninusuales.\n- Idioma: Cambia el idioma de la app entre espa\u00f1ol e ingl\u00e9s, adapt\u00e1ndose a las preferencias del usuario.\n- Privacidad: Gestiona permisos de datos, revisa la pol\u00edtica de privacidad de HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 9
+            },
+            "score": 0.17683712575097185
+          },
+          {
+            "text": "# Cumplimiento Normativo y \u00c9tica\n\nHistoriaCard opera bajo un estricto cumplimiento de las regulaciones financieras mexicanas e internacionales. La fintech se asegura de que todos sus productos y\nservicios cumplan con las leyes aplicables, incluyendo las normas de protecci\u00f3n al consumidor y las regulaciones contra el lavado de dinero.\n\n- Protecci\u00f3n al consumidor: HistoriaCard se compromete a la transparencia y a la protecci\u00f3n de los derechos del consumidor, proporcionando informaci\u00f3n\nclara y accesible sobre todos sus productos y servicios.\n- Pol\u00edticas AML/KYC: La fintech implementa pol\u00edticas robustas de Conozca a su Cliente (KYC) y Anti-Lavado de Dinero (AML) para garantizar que sus servicios\nno sean utilizados para actividades il\u00edcitas.\n- \u00c9tica empresarial: HistoriaCard se adhiere a un c\u00f3digo de \u00e9tica empresarial que pone a los clientes en primer lugar, garantizando pr\u00e1cticas comerciales justas\ny responsables en todas las facetas de su operaci\u00f3n.\n",
+            "metadata": {
+              "source": "cumplimiento_normativo.txt"
+            },
+            "score": 0.13656729378478275
+          },
+          {
+            "text": " HistoriaCard, y ajusta las configuraciones de seguimiento y personalizaci\u00f3n de\nanuncios.\n- Gesti\u00f3n de contrase\u00f1as: Los usuarios pueden cambiar su contrase\u00f1a regularmente y activar la autenticaci\u00f3n en dos pasos para una seguridad adicional.\n\n## 9. Seguridad y Tecnolog\u00eda\nHistoriaCard entiende que la seguridad es primordial cuando se trata de finanzas personales. La fintech ha implementado m\u00faltiples capas de seguridad para\nproteger la informaci\u00f3n y los fondos de sus usuarios.\n- Cifrado de extremo a extremo: Toda la comunicaci\u00f3n dentro de la app est\u00e1 cifrada, asegurando que los datos sensibles nunca sean vulnerables a\nintercepciones.\n- Autenticaci\u00f3n biom\u00e9trica: Los usuarios pueden acceder a su cuenta mediante huella digital o reconocimiento facial, garantizando que solo el titular de la\ncuenta pueda acceder a la misma.\n- Detecci\u00f3n de fraudes: Sistemas avanzados de inteligencia artificial monitorean las transacciones en tiempo real para detectar actividades sospechosas y\nprevenir fraudes a",
+            "metadata": {
+              "source": "app_descripcion.txt",
+              "chunk_id": 10
+            },
+            "score": 0.13078495573869758
+          }
+        ]
+      },
+      "generation": {
+        "generated_response": "Error generating response with Together.ai: 429 Client Error: Too Many Requests for url: https://api.together.xyz/v1/chat/completions",
+        "rouge_1": 0.0,
+        "rouge_2": 0.0,
+        "rouge_l": 0.0
+      }
+    }
+  ],
+  "average_retrieval": {
+    "precision": 0.32380952380952377,
+    "recall": 0.8952380952380952,
+    "f1": 0.4695238095238095
+  },
+  "average_generation": {
+    "rouge_1": 0.09075361570077134,
+    "rouge_2": 0.0826007320736886,
+    "rouge_l": 0.09075361570077134
+  }
+}

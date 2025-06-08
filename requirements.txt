@@ -1,0 +1,14 @@
+flask
+flask-cors
+scikit-learn
+openai
+python-dotenv
+numpy
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+tqdm
+torch
+accelerate
+rouge

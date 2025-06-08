@@ -1,0 +1,64 @@
+﻿Lenguaje de Programación Recomendado: Python
+Sin duda, Python es el lenguaje más adecuado para este proyecto por varias razones:
+1. Ecosistema Maduro de IA/ML: Python cuenta con un ecosistema extremadamente rico y maduro de bibliotecas para IA, Machine Learning y PLN. El propio documento menciona Scipy, NLTK, LlamaIndex y LangChain, todas bibliotecas de Python. Además, tendrás acceso fácil a:
+   * Modelos de Lenguaje (LLMs): Bibliotecas como transformers (de Hugging Face) para acceder a modelos preentrenados (BERT, GPT, etc.) y openai para interactuar con modelos de OpenAI.
+   * Bases de Datos Vectoriales: Clientes para FAISS, Chroma, Qdrant, Pinecone, etc.
+   * Computación Numérica y Manipulación de Datos: NumPy, Pandas.
+   * Frameworks Web (para APIs): Flask, FastAPI si necesitas exponer tu RAG como un servicio.
+2. Facilidad de Uso y Rapidez de Desarrollo: La sintaxis de Python es relativamente sencilla y permite prototipar e iterar rápidamente.
+3. Comunidad y Soporte: Existe una vasta comunidad y abundante documentación, tutoriales y ejemplos para casi cualquier tarea relacionada con IA/ML en Python.
+Aunque otros lenguajes podrían usarse, el esfuerzo de replicar la funcionalidad disponible en las bibliotecas de Python sería considerablemente mayor.
+Arquitectura y Patrones de Diseño para RAG
+Una buena arquitectura para un sistema RAG debe ser modular y escalable. Aquí te propongo una estructura basada en los requisitos del documento:
+Componentes Principales:
+1. Ingesta y Preprocesamiento de Datos:
+   * Responsabilidad: Cargar los documentos, limpiarlos, dividirlos en fragmentos manejables (chunks).
+   * Patrones: Se puede usar un patrón Pipeline para definir los pasos de preprocesamiento (limpieza, tokenización, chunking).
+2. Indexación (Indexing):
+   * Responsabilidad: Crear los índices para la búsqueda. Esto incluye tanto el índice disperso (TF-IDF/BM25) como el denso (embeddings vectoriales).
+   * Componentes:
+      * Calculador TF-IDF/BM25: Implementación propia o usando scikit-learn.
+      * Modelo de Embeddings: Usar modelos preentrenados (ej. de sentence-transformers o la API de OpenAI).
+      * Vector Store: Interfaz para almacenar y buscar vectores (FAISS, Chroma, Qdrant).
+   * Patrones: Strategy Pattern para poder cambiar fácilmente entre diferentes métodos de indexación o bases de datos vectoriales. Adapter Pattern para interactuar con diferentes APIs de Vector Stores.
+3. Recuperación (Retrieval):
+   * Responsabilidad: Dada una consulta (query), encontrar los fragmentos de documento más relevantes usando los índices.
+   * Componentes:
+      * Recuperador Disperso (Sparse Retriever): Busca en el índice TF-IDF/BM25 (ej. usando similitud coseno).
+      * Recuperador Denso (Dense Retriever): Convierte la query en un embedding y busca en el Vector Store.
+      * (Opcional) Re-ranker: Mejora el orden de los documentos recuperados (como se menciona en la parte de "Contextual Generation").
+   * Patrones: Strategy Pattern para seleccionar el tipo de recuperador (disperso, denso, híbrido).
+4. Generación (Generation):
+   * Responsabilidad: Tomar la consulta original y los documentos recuperados para generar una respuesta coherente usando un LLM.
+   * Componentes:
+      * Constructor de Prompt: Formatea la entrada para el LLM, incluyendo la consulta y el contexto recuperado.
+      * Cliente LLM: Interactúa con la API del modelo de lenguaje (OpenAI, Hugging Face, etc.).
+   * Patrones: Template Method Pattern para definir la estructura general del prompt, permitiendo variaciones. Adapter Pattern para interactuar con diferentes APIs de LLMs.
+5. Gestión de Estado de Diálogo (Opcional - para Multi-Turn):
+   * Responsabilidad: Mantener el historial de la conversación para que las consultas posteriores tengan contexto.
+   * Componentes: Módulo simple que almacena y recupera el historial asociado a una sesión o usuario.
+   * Patrones: Puede ser tan simple como un diccionario o requerir patrones más complejos si la gestión de estado se vuelve sofisticada.
+6. Orquestación:
+   * Responsabilidad: Coordinar el flujo completo: recibir query -> recuperar -> generar -> devolver respuesta. Gestionar el historial si aplica.
+   * Componentes: El script principal o una clase que llama a los otros componentes en orden. Frameworks como LangChain o LlamaIndex actúan principalmente a este nivel, simplificando enormemente la conexión entre componentes.
+   * Patrones: Pipeline Pattern o Chain of Responsibility Pattern para definir el flujo de procesamiento.
+7. Evaluación:
+   * Responsabilidad: Medir el rendimiento del sistema usando métricas de recuperación y generación.
+   * Componentes: Scripts o funciones para calcular métricas (precisión, recall para recuperación; ROUGE, BLEU, Faithfulness, Relevance para generación).
+Arquitectura General (Flujo Simplificado):
+Usuario Query --> [Orquestador] --> [Gestor de Diálogo (si aplica)]
+                 |
+                 v
+     [Recuperador (Strategy: Sparse/Dense)] --> Índice TF-IDF / Vector Store
+                 |
+                 v (Documentos Recuperados)
+     [Generador (LLM)] --> Constructor de Prompt --> API LLM
+                 |
+                 v
+            Respuesta --> [Orquestador] --> Usuario
+
+Consideraciones Adicionales:
+* Modularidad: Diseña cada componente (Retrieval, Generation, Indexing) como clases o módulos independientes con interfaces claras. Esto facilita las pruebas, el mantenimiento y la sustitución de componentes (por ejemplo, cambiar de BM25 a BERT embeddings).
+* Configuración: Externaliza parámetros como el modelo a usar, top-k para retrieval, rutas de datos, etc., en archivos de configuración (YAML, JSON).
+* "Desde Cero" vs. Bibliotecas: El desafío permite usar bibliotecas como LangChain/LlamaIndex. Construir "desde cero" aquí probablemente significa no depender exclusivamente de estas bibliotecas de alto nivel para todo, sino entender e implementar la lógica central de recuperación y la conexión con el LLM, aunque uses scikit-learn para TF-IDF o FAISS para la búsqueda vectorial. Reimplementar algoritmos como TF-IDF o modelos como BERT desde cero está fuera del alcance de este desafío.
+Empezar con la implementación básica (TF-IDF + LLM simple) y luego refactorizar para incorporar la recuperación densa y la gestión de contexto es un buen enfoque iterativo.
