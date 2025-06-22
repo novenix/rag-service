@@ -5,6 +5,10 @@ from rag.retriever import get_retriever, TFIDFRetriever, DenseRetriever
 from rag.generator import get_generator
 from rag.dialog_state import DialogStateManager
 import os
+import requests
+from apscheduler.schedulers.background import BackgroundScheduler
+import threading
+import time
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for JavaScript frontend
@@ -70,11 +74,43 @@ retriever = get_retriever(retriever_type, **retriever_kwargs)
 # Get generator
 generator = get_generator(provider="together")
 
+FILES_DIR = os.path.join(os.path.dirname(__file__), 'files')
+COMPLETE_MENU_FILE = os.path.join(FILES_DIR, 'complete_menu.txt')
+
+CONTEXT_DIR = os.path.join(os.path.dirname(__file__), 'context')
+CONTEXT_FILE = os.path.join(CONTEXT_DIR, 'context.txt')
+CONTEXT_URL = (
+    'https://api.toteat.com/mw/or/1.0/products?'
+    'xir=1787266874917892&xil=3&xiu=1002&xapitoken=uNyXp3DkfFVQgMbLeynFGvRJwk7fMp5d&activeProducts=true'
+)
+
+def update_context_file():
+    os.makedirs(CONTEXT_DIR, exist_ok=True)
+    os.makedirs(FILES_DIR, exist_ok=True)
+    try:
+        response = requests.get(CONTEXT_URL, timeout=30)
+        response.raise_for_status()
+        with open(CONTEXT_FILE, 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        with open(COMPLETE_MENU_FILE, 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        print(f"context.txt y complete_menu.txt actualizados exitosamente a las {time.strftime('%Y-%m-%d %H:%M:%S')}")
+    except Exception as e:
+        print(f"Error actualizando context.txt y complete_menu.txt: {e}")
+
+# Actualizar al iniciar el servidor ANTES de procesar documentos
+update_context_file()
+
 # Initialize document processing and indexing at application startup
 documents = processor.load_documents()
 chunks = processor.chunk_documents()
 retriever.index_documents(chunks)
 print(f"Indexed {len(chunks)} document chunks from {len(documents)} documents using {retriever_type} retriever")
+
+# Programar actualización diaria a medianoche
+scheduler = BackgroundScheduler()
+scheduler.add_job(update_context_file, 'cron', hour=0, minute=0)
+scheduler.start()
 
 # Health check endpoint
 @app.route("/health", methods=["GET"])
