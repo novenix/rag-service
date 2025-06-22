@@ -20,7 +20,7 @@ class DocumentProcessor:
                     self.documents[filename] = content
         return self.documents
     
-    def chunk_documents(self, chunk_size: int = 1000, overlap: int = 200) -> List[Dict]:
+    def chunk_documents(self, chunk_size: int = 3000, overlap: int = 200) -> List[Dict]:
         """
         Split documents into smaller chunks for better retrieval.
         

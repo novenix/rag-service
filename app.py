@@ -128,7 +128,7 @@ def query_rag():
             return jsonify({"error": "Missing query parameter"}), 400
         
         query = data['query']
-        top_k = data.get('top_k', 3)
+        top_k = data.get('top_k', 7)
         session_id = data.get('session_id')
         
         # Create a new session if one doesn't exist
